@@ -1,0 +1,99 @@
+name: Refresh publications and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # Check every Monday at 12:17 UTC; the refresh gate below selects alternating Mondays.
+    - cron: "17 12 * * 1"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Validate member registry
+        run: python scripts/update_publications.py --check
+
+      - name: Run updater tests
+        run: python -m unittest discover -s tests
+
+      - name: Decide whether publication refresh is due
+        id: publication_refresh
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import os
+          from datetime import date, datetime, timezone
+
+          event_name = os.environ["EVENT_NAME"]
+          today = datetime.now(timezone.utc).date()
+          anchor = date(2026, 8, 24)  # Monday; every second Monday from this date is due.
+          elapsed_days = (today - anchor).days
+          scheduled_due = elapsed_days >= 0 and (elapsed_days // 7) % 2 == 0
+          due = event_name == "workflow_dispatch" or (event_name == "schedule" and scheduled_due)
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"due={'true' if due else 'false'}\n")
+          print(f"Publication refresh due: {due}")
+          PY
+
+      - name: Refresh publications from stored ORCID identifiers
+        if: steps.publication_refresh.outputs.due == 'true'
+        run: python scripts/update_publications.py
+
+      - name: Build browser data bundle
+        run: python scripts/update_publications.py --build-site-data
+
+      - name: Commit refreshed publication data
+        if: steps.publication_refresh.outputs.due == 'true'
+        run: |
+          if git diff --quiet -- data/publications.json assets/site-data.js assets/site-publications-*.js; then
+            echo "No publication changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publications.json assets/site-data.js assets/site-publications-*.js
+          git commit -m "Refresh QuantAct publications"
+          git push
+
+      - name: Assemble static site
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp index.html .nojekyll _site/
+          cp -R assets data _site/
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
