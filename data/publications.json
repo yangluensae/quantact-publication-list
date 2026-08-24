@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:07:11Z",
+  "generated_at": "2026-08-24T13:18:02Z",
   "member_count": 23,
   "orcid_linked_count": 23,
   "minimum_publication_year": 2000,
@@ -99,7 +99,7 @@
       "source": "Crossref (exact ORCID)"
     },
     {
-      "title": "smqf: Statistical Methods in Quantitative Finance",
+      "title": "smqf: Statistical Methods for Quantitative Finance",
       "journal": "CRAN: Contributed Packages",
       "year": 2026,
       "type": "dataset",
@@ -250,7 +250,7 @@
       "orcid_ids": [
         "0000-0002-8206-0765"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Optimal Transport for Actuarial Science",
@@ -512,6 +512,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Criminal records, the right to be forgotten, and inclusive insurance: risk, rehabilitation, and data governance in underwriting",
+      "journal": "The Geneva Papers on Risk and Insurance - Issues and Practice",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1057/s41288-026-00392-5",
+      "url": "https://doi.org/10.1057/s41288-026-00392-5",
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Criminal Records, the Right to be Forgotten, and Inclusive Insurance: Risk, Rehabilitation, and Data Governance in Underwriting",
       "journal": null,
       "year": 2026,
@@ -646,7 +661,7 @@
       "orcid_ids": [
         "0000-0002-8206-0765"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "The multi-armed bandit problem under the mean-variance setting",
@@ -2053,7 +2068,7 @@
       "orcid_ids": [
         "0000-0002-8206-0765"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Optimal collective investment: an analysis of individual welfare",
@@ -2296,12 +2311,12 @@
       "source": "ORCID public record"
     },
     {
-      "title": "Factor exposure heterogeneity in green and brown stocks",
-      "journal": "Finance Research Letters",
+      "title": "Factor Exposure Heterogeneity in Green and Brown Stocks",
+      "journal": null,
       "year": 2023,
-      "type": "journal-article",
-      "doi": "10.1016/j.frl.2023.103900",
-      "url": "https://doi.org/10.1016/j.frl.2023.103900",
+      "type": "posted-content",
+      "doi": "10.2139/ssrn.4362696",
+      "url": "https://doi.org/10.2139/ssrn.4362696",
       "quantact_members": [
         "David Ardia"
       ],
@@ -2311,12 +2326,12 @@
       "source": "Crossref (exact ORCID)"
     },
     {
-      "title": "Factor Exposure Heterogeneity in Green and Brown Stocks",
-      "journal": null,
+      "title": "Factor exposure heterogeneity in green and brown stocks",
+      "journal": "Finance Research Letters",
       "year": 2023,
-      "type": "posted-content",
-      "doi": "10.2139/ssrn.4362696",
-      "url": "https://doi.org/10.2139/ssrn.4362696",
+      "type": "journal-article",
+      "doi": "10.1016/j.frl.2023.103900",
+      "url": "https://doi.org/10.1016/j.frl.2023.103900",
       "quantact_members": [
         "David Ardia"
       ],
@@ -2878,7 +2893,7 @@
       "orcid_ids": [
         "0000-0002-8206-0765"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Gridded flood depth estimates from satellite-derived inundations",
@@ -3463,7 +3478,7 @@
       "orcid_ids": [
         "0000-0002-8206-0765"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Equal risk pricing of derivatives with deep hedging",
@@ -4948,7 +4963,7 @@
       "orcid_ids": [
         "0000-0002-8206-0765"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "A Bayesian non-parametric model for small population mortality",
