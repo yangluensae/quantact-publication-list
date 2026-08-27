@@ -82,6 +82,12 @@ class UpdaterTests(unittest.TestCase):
             ["Included boundary", "Included recent"],
         )
 
+    def test_member_registry_rejects_abbreviated_uqam(self):
+        with self.assertRaisesRegex(ValueError, "Université du Québec à Montréal"):
+            updater.validate_members([
+                {"name": "Example Member", "institution": "UQAM", "orcid": None}
+            ])
+
     def test_site_data_bundle(self):
         member_doc = {"members": [{"name": "Member", "institution": "University", "orcid": None}]}
         publication_doc = {

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T13:18:02Z",
-  "member_count": 23,
-  "orcid_linked_count": 23,
+  "generated_at": "2026-08-27T17:46:23Z",
+  "member_count": 24,
+  "orcid_linked_count": 24,
   "minimum_publication_year": 2000,
   "refresh": {
-    "successful_orcid_records": 23,
+    "successful_orcid_records": 24,
     "failed_orcid_records": 0
   },
   "publications": [
@@ -354,6 +354,21 @@
       ],
       "orcid_ids": [
         "0000-0001-5097-5269"
+      ],
+      "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Individual loss reserving for multi-coverage insurance",
+      "journal": "ASTIN Bulletin",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1017/asb.2026.10083",
+      "url": "https://doi.org/10.1017/asb.2026.10083",
+      "quantact_members": [
+        "Roxane Turcotte"
+      ],
+      "orcid_ids": [
+        "0000-0002-2274-4727"
       ],
       "source": "Crossref (exact ORCID)"
     },
@@ -1517,9 +1532,11 @@
       "doi": "10.1080/10920277.2023.2202707",
       "url": "https://doi.org/10.1080/10920277.2023.2202707",
       "quantact_members": [
-        "Jean-Philippe Boucher"
+        "Jean-Philippe Boucher",
+        "Roxane Turcotte"
       ],
       "orcid_ids": [
+        "0000-0002-2274-4727",
         "0000-0002-3363-0071"
       ],
       "source": "Crossref (exact ORCID)"

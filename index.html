@@ -3,22 +3,28 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="QuantAct member directory and automatically refreshed publication feed from 2000 onward based on verified ORCID identifiers.">
+  <meta id="meta-description" name="description" content="QuantAct member directory and automatically refreshed publication feed from 2000 onward based on verified ORCID identifiers.">
   <title>QUANTACT publication list</title>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to content</a>
+  <a class="skip-link" href="#main" data-i18n="skipToContent">Skip to content</a>
   <header class="site-header">
     <div class="shell nav-wrap">
-      <a class="brand" href="#top" aria-label="QuantAct publications home">
+      <a class="brand" href="#top" aria-label="QuantAct publications home" data-i18n-aria-label="brandAriaLabel">
         <span class="brand-mark" aria-hidden="true">Q</span>
-        <span><strong>QUANTACT</strong><small>Publication list</small></span>
+        <span><strong>QUANTACT</strong><small data-i18n="brandSubtitle">Publication list</small></span>
       </a>
-      <nav aria-label="Primary navigation">
-        <a href="#publications">Publications</a>
-        <a href="#members">Members</a>
-      </nav>
+      <div class="nav-actions">
+        <nav aria-label="Primary navigation" data-i18n-aria-label="primaryNavigation">
+          <a href="#publications" data-i18n="publications">Publications</a>
+          <a href="#members" data-i18n="members">Members</a>
+        </nav>
+        <div class="language-switcher" role="group" aria-label="Language" data-i18n-aria-label="languageSelector">
+          <button class="language-button" type="button" data-language="en" aria-pressed="true">EN</button>
+          <button class="language-button" type="button" data-language="fr" aria-pressed="false">FR</button>
+        </div>
+      </div>
     </div>
   </header>
 
@@ -26,21 +32,21 @@
     <section class="hero" id="top">
       <div class="shell hero-grid">
         <div>
-          <p class="eyebrow">Actuarial &amp; financial mathematics</p>
-          <h1>QUANTACT publication list</h1>
+          <p class="eyebrow" data-i18n="heroEyebrow">Actuarial &amp; financial mathematics</p>
+          <h1 data-i18n="heroTitle">QUANTACT publication list</h1>
           <div class="hero-actions">
-            <a class="button primary" href="#publications">Browse publications</a>
-            <a class="button ghost" href="#members">View members</a>
+            <a class="button primary" href="#publications" data-i18n="browsePublications">Browse publications</a>
+            <a class="button ghost" href="#members" data-i18n="viewMembers">View members</a>
           </div>
         </div>
-        <div class="hero-card" aria-label="Site status">
-          <p class="status-label">Publication monitor</p>
-          <div class="pulse-row"><span class="pulse" aria-hidden="true"></span><strong>Two-week refresh enabled</strong></div>
-          <p>Refreshes every two weeks through GitHub Actions.</p>
+        <div class="hero-card" aria-label="Site status" data-i18n-aria-label="siteStatus">
+          <p class="status-label" data-i18n="publicationMonitor">Publication monitor</p>
+          <div class="pulse-row"><span class="pulse" aria-hidden="true"></span><strong data-i18n="refreshEnabled">Two-week refresh enabled</strong></div>
+          <p data-i18n="refreshDescription">Refreshes every two weeks through GitHub Actions.</p>
           <div class="status-grid">
-            <div><span id="stat-members">—</span><small>members</small></div>
-            <div><span id="stat-orcid">—</span><small>ORCID-linked</small></div>
-            <div><span id="stat-publications">—</span><small>since 2000</small></div>
+            <div><span id="stat-members">—</span><small data-i18n="membersLower">members</small></div>
+            <div><span id="stat-orcid">—</span><small data-i18n="orcidLinked">ORCID-linked</small></div>
+            <div><span id="stat-publications">—</span><small data-i18n="since2000">since 2000</small></div>
           </div>
         </div>
       </div>
@@ -49,22 +55,22 @@
     <section class="section shell" id="publications">
       <div class="section-heading split">
         <div>
-          <p class="eyebrow">Research output</p>
-          <h2>Publications since 2000</h2>
+          <p class="eyebrow" data-i18n="researchOutput">Research output</p>
+          <h2 data-i18n="publicationsSince2000">Publications since 2000</h2>
         </div>
-        <p class="updated">Last data refresh: <strong id="last-updated">not yet run</strong></p>
+        <p class="updated"><span data-i18n="lastDataRefresh">Last data refresh:</span> <strong id="last-updated">not yet run</strong></p>
       </div>
 
-      <div class="toolbar" aria-label="Publication filters">
+      <div class="toolbar" aria-label="Publication filters" data-i18n-aria-label="publicationFilters">
         <label class="search-field">
-          <span class="sr-only">Search publications</span>
-          <input id="publication-search" type="search" placeholder="Search title, journal, or member…" autocomplete="off">
+          <span class="sr-only" data-i18n="searchPublications">Search publications</span>
+          <input id="publication-search" type="search" placeholder="Search title, journal, or member…" data-i18n-placeholder="publicationSearchPlaceholder" autocomplete="off">
         </label>
-        <select id="publication-member-filter" aria-label="Filter publications by member">
-          <option value="">All members</option>
+        <select id="publication-member-filter" aria-label="Filter publications by member" data-i18n-aria-label="filterPublicationsByMember">
+          <option value="" data-i18n="allMembers">All members</option>
         </select>
-        <select id="year-filter" aria-label="Filter publications by year">
-          <option value="">All years</option>
+        <select id="year-filter" aria-label="Filter publications by year" data-i18n-aria-label="filterPublicationsByYear">
+          <option value="" data-i18n="allYears">All years</option>
         </select>
       </div>
 
@@ -75,18 +81,18 @@
       <div class="shell">
         <div class="section-heading split">
           <div>
-            <p class="eyebrow">Directory</p>
-            <h2>QuantAct members</h2>
+            <p class="eyebrow" data-i18n="directory">Directory</p>
+            <h2 data-i18n="quantactMembers">QuantAct members</h2>
           </div>
-          <p class="muted">Missing ORCID values are left blank by design.</p>
+          <p class="muted" data-i18n="missingOrcidExplanation">Missing ORCID values are left blank by design.</p>
         </div>
-        <div class="toolbar" aria-label="Member filters">
+        <div class="toolbar" aria-label="Member filters" data-i18n-aria-label="memberFilters">
           <label class="search-field">
-            <span class="sr-only">Search members</span>
-            <input id="member-search" type="search" placeholder="Search member or institution…" autocomplete="off">
+            <span class="sr-only" data-i18n="searchMembers">Search members</span>
+            <input id="member-search" type="search" placeholder="Search member or institution…" data-i18n-placeholder="memberSearchPlaceholder" autocomplete="off">
           </label>
-          <select id="institution-filter" aria-label="Filter members by institution">
-            <option value="">All institutions</option>
+          <select id="institution-filter" aria-label="Filter members by institution" data-i18n-aria-label="filterMembersByInstitution">
+            <option value="" data-i18n="allInstitutions">All institutions</option>
           </select>
         </div>
         <div id="member-grid" class="member-grid" aria-live="polite"></div>
@@ -97,20 +103,20 @@
 
   <footer>
     <div class="shell footer-grid">
-      <div><strong>QUANTACT publication list</strong><p>Publication index for the QuantAct laboratory.</p></div>
-      <p>Member source: Centre de recherches mathématiques (CRM). Publication metadata is drawn from public scholarly APIs using stored ORCID identifiers.</p>
+      <div><strong data-i18n="footerTitle">QUANTACT publication list</strong><p data-i18n="footerDescription">Publication index for the QuantAct laboratory.</p></div>
+      <p data-i18n="footerSource">Member source: Centre de recherches mathématiques (CRM). Publication metadata is drawn from public scholarly APIs using stored ORCID identifiers.</p>
     </div>
   </footer>
 
-  <script src="assets/site-data.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-1.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-2.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-3.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-4.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-5.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-6.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-7.js?v=20260820f" defer></script>
-  <script src="assets/site-publications-8.js?v=20260820f" defer></script>
-  <script src="assets/app.js?v=20260820f" defer></script>
+  <script src="assets/site-data.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-1.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-2.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-3.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-4.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-5.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-6.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-7.js?v=20260827a" defer></script>
+  <script src="assets/site-publications-8.js?v=20260827a" defer></script>
+  <script src="assets/app.js?v=20260827a" defer></script>
 </body>
 </html>

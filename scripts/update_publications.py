@@ -28,6 +28,7 @@ SITE_PUBLICATION_CHUNK_COUNT = 8
 MIN_PUBLICATION_YEAR = 2000
 ORCID_RE = re.compile(r"^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$")
 USER_AGENT = "quantact-publications-site/1.0"
+INSTITUTION_ALIASES = {"UQAM": "Université du Québec à Montréal"}
 
 
 class IdentityMismatchError(ValueError):
@@ -365,6 +366,11 @@ def validate_members(members: list[dict[str, Any]]) -> None:
         if not name or not institution:
             errors.append(f"Member missing name/institution: {member!r}")
             continue
+        if institution in INSTITUTION_ALIASES:
+            errors.append(
+                f"Use canonical institution name for {name}: "
+                f"{INSTITUTION_ALIASES[institution]} (not {institution})"
+            )
         if name in seen_names:
             errors.append(f"Duplicate member name: {name}")
         seen_names.add(name)
