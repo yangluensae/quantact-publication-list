@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:46:23Z",
+  "generated_at": "2026-09-07T17:46:22Z",
   "member_count": 24,
   "orcid_linked_count": 24,
   "minimum_publication_year": 2000,
@@ -8,6 +8,21 @@
     "failed_orcid_records": 0
   },
   "publications": [
+    {
+      "title": "When urban flood models disagree: hydrological equifinality as actuarial model risk: A. Charpentier",
+      "journal": "European Actuarial Journal",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
     {
       "title": "When urban flood models disagree: hydrological equifinality as actuarial model risk",
       "journal": "European Actuarial Journal",
@@ -112,6 +127,21 @@
         "0000-0003-2823-782X"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Sequential Transport for Causal Mediation Analysis",
+      "journal": "arXiv e-prints",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Recoverability of market-wide fair insurance premiums under selection bias",
@@ -298,6 +328,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "On Short‐Term Behavior of Implied Volatility for Index Options",
+      "journal": "Mathematical Finance",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1111/mafi.70057",
+      "url": "https://doi.org/10.1111/mafi.70057",
+      "quantact_members": [
+        "Thai Nguyen"
+      ],
+      "orcid_ids": [
+        "0000-0002-0912-2392"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "On noncentral Wishart mixtures of noncentral Wisharts and their use for testing random effects in factorial design models",
       "journal": "Journal of Mathematical Analysis and Applications",
       "year": 2026,
@@ -339,6 +384,21 @@
       ],
       "orcid_ids": [
         "0000-0002-7141-1048"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "La société au prix du risque",
+      "journal": null,
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
     },
@@ -433,6 +493,36 @@
       "source": "ORCID public record"
     },
     {
+      "title": "From Rating Factors to Crash Mechanisms: A Multiscale Causal DAG Framework Linking Motor Insurance and Road Safety",
+      "journal": "arXiv preprint arXiv:2608.09441",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Federated Measurement of Demographic Disparities from Quantile Sketches",
+      "journal": "arXiv preprint arXiv:2602.18870",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Estimation of the Intercept Parameter in Integrated Galton–Watson Processes",
       "journal": "Journal of Time Series Analysis",
       "year": 2026,
@@ -497,6 +587,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Direct and Indirect Discrimination in Generalized Linear Models",
+      "journal": "arXiv preprint arXiv:2606.23116",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Designing Flood Insurance to Maximize Public Benefits in High‐Risk Areas",
       "journal": "Risk Analysis",
       "year": 2026,
@@ -508,6 +613,51 @@
       ],
       "orcid_ids": [
         "0000-0001-9316-6867"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Decomposing Probabilistic Scores: Reliability, Information Loss and Uncertainty",
+      "journal": "arXiv preprint arXiv:2603.15232",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Decomposing direct and indirect biases in linear models under demographic parity constraint (student abstract)",
+      "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "year": 2026,
+      "type": "conference-paper",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Decomposing direct and indirect biases in linear models under demographic parity constraint",
+      "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "year": 2026,
+      "type": "conference-paper",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
     },
@@ -527,21 +677,6 @@
       "source": "Crossref (exact ORCID)"
     },
     {
-      "title": "Criminal records, the right to be forgotten, and inclusive insurance: risk, rehabilitation, and data governance in underwriting",
-      "journal": "The Geneva Papers on Risk and Insurance - Issues and Practice",
-      "year": 2026,
-      "type": "journal-article",
-      "doi": "10.1057/s41288-026-00392-5",
-      "url": "https://doi.org/10.1057/s41288-026-00392-5",
-      "quantact_members": [
-        "Arthur Charpentier"
-      ],
-      "orcid_ids": [
-        "0000-0003-3654-6286"
-      ],
-      "source": "ORCID public record"
-    },
-    {
       "title": "Criminal Records, the Right to be Forgotten, and Inclusive Insurance: Risk, Rehabilitation, and Data Governance in Underwriting",
       "journal": null,
       "year": 2026,
@@ -555,6 +690,21 @@
         "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
+    },
+    {
+      "title": "Criminal records, the right to be forgotten, and inclusive insurance: risk, rehabilitation, and data governance in underwriting",
+      "journal": "The Geneva Papers on Risk and Insurance - Issues and Practice",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1057/s41288-026-00392-5",
+      "url": "https://doi.org/10.1057/s41288-026-00392-5",
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Correction: From point to probabilistic gradient boosting for claim frequency and severity prediction",
@@ -617,6 +767,36 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Beyond Zipf's Law: Equifinality and Mechanistic Inference from Scaling Laws",
+      "journal": "arXiv preprint arXiv:2608.09459",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Beyond Procedure: Substantive Fairness in Conformal Prediction",
+      "journal": "arXiv preprint arXiv:2602.16794",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Backtesting expectile: Disentangling unconditional coverage and independence properties",
       "journal": "Risk Sciences",
       "year": 2026,
@@ -624,10 +804,12 @@
       "doi": "10.1016/j.risk.2026.100051",
       "url": "https://doi.org/10.1016/j.risk.2026.100051",
       "quantact_members": [
+        "Mélina Mailhot",
         "Yang Lu"
       ],
       "orcid_ids": [
-        "0000-0002-7141-1048"
+        "0000-0002-7141-1048",
+        "0000-0003-3763-654X"
       ],
       "source": "ORCID public record"
     },
@@ -679,6 +861,36 @@
       "source": "ORCID public record"
     },
     {
+      "title": "When Numbers Mislead Us",
+      "journal": "arXiv preprint arXiv:2507.03628",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Unveil sources of uncertainty: Feature contribution to conformal prediction intervals",
+      "journal": "arXiv preprint arXiv:2505.13118",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "The multi-armed bandit problem under the mean-variance setting",
       "journal": "European Journal of Operational Research",
       "year": 2025,
@@ -705,6 +917,21 @@
       ],
       "orcid_ids": [
         "0000-0002-2016-7524"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "The Insurance Market in the Era of Digital Transitions: Relationships Between Insurers, Big Tech, and Insurtechs",
+      "journal": null,
+      "year": 2025,
+      "type": "report",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
     },
@@ -799,6 +1026,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Optimal Transport on Categorical Data for Counterfactuals using Compositional Data and Dirichlet Transport",
+      "journal": "arXiv e-prints",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Moral maze: Ethics and discrimination in machine learning",
       "journal": "The Actuary",
       "year": 2025,
@@ -840,6 +1082,36 @@
       ],
       "orcid_ids": [
         "0000-0002-7141-1048"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Linear risk sharing on networks",
+      "journal": "arXiv preprint arXiv:2509.21411",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "KURTHGR: a neural maximal correlation for tabular datasets",
+      "journal": "Procedia Computer Science",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
     },
@@ -934,6 +1206,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Equipy: Sequential fairness using optimal transport in python",
+      "journal": "arXiv e-prints",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Economic Exposure of Canadian Residential Properties to Flooding",
       "journal": "Journal of Flood Risk Management",
       "year": 2025,
@@ -966,6 +1253,36 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression",
+      "journal": "Procedia Computer Science",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Disaster Risk Financing through Taxation: A Framework for Regional Participation in Collective Risk-Sharing",
+      "journal": "arXiv preprint arXiv:2506.18895",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "COMPARATIVE ANALYSIS OF WEATHER-BASED INDEXES AND THE ACTUARIES CLIMATE INDEXTM FOR CROP YIELD PREDICTION AND WEATHER-DERIVATIVE PRICING",
       "journal": "Arxiv",
       "year": 2025,
@@ -994,6 +1311,36 @@
       "orcid_ids": [
         "0000-0001-5097-5269",
         "0000-0002-2016-7524"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Beyond shapley values: Cooperative games for the interpretation of machine learning models",
+      "journal": "arXiv preprint arXiv:2506.13900",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Beyond human intervention: Algorithmic collusion through multi-agent learning strategies",
+      "journal": "arXiv preprint arXiv:2501.16935",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
     },
@@ -1056,6 +1403,21 @@
         "0000-0001-7312-0167"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "A scalable toolbox for exposing indirect discrimination in insurance rates",
+      "journal": "Casualty Actuarial Society (à parâıtre)",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "A multivariate Poisson model based on a triangular comonotonic shock construction",
@@ -1270,6 +1632,36 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Probabilistic scores of classifiers, calibration is not enough",
+      "journal": "arXiv preprint arXiv:2408.03421",
+      "year": 2024,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Post-calibration techniques: Balancing calibration and score distribution alignment",
+      "journal": "NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty",
+      "year": 2024,
+      "type": "conference-paper",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Optimal Transport for Counterfactual Estimation: A Method for Causal Inference",
       "journal": "Studies in Systems, Decision and Control",
       "year": 2024,
@@ -1371,6 +1763,21 @@
       ],
       "orcid_ids": [
         "0000-0002-7141-1048"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Machine Learning et Économie",
+      "journal": "Revue d'économie politique",
+      "year": 2024,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
       ],
       "source": "ORCID public record"
     },
@@ -1508,6 +1915,21 @@
         "0000-0003-2823-782X"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Generalized oversampling for learning from imbalanced datasets and associated theory: Application in regression",
+      "journal": "Transactions on Machine Learning Research",
+      "year": 2024,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Generalized FGM dependence: Geometrical representation and convex bounds on sums",
@@ -1849,7 +2271,7 @@
       "title": "A Fair price to pay: exploiting causal graphs for fairness in insurance",
       "journal": null,
       "year": 2024,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.4709243",
       "url": "https://doi.org/10.2139/ssrn.4709243",
       "quantact_members": [
@@ -1860,7 +2282,7 @@
         "0000-0003-0383-1689",
         "0000-0003-3654-6286"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "A data science approach to climate change risk assessment applied to pluvial flood occurrences for the United States and Canada",
@@ -2328,6 +2750,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Fairness explainability using optimal transport with applications in image classification",
+      "journal": "arXiv preprint arXiv:2308.11090",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Factor Exposure Heterogeneity in Green and Brown Stocks",
       "journal": null,
       "year": 2023,
@@ -2598,21 +3035,6 @@
       "source": "ORCID public record"
     },
     {
-      "title": "Risque de pandémie, pertes d’exploitation et incertitudes des garanties assurantielles",
-      "journal": "Responsabilité civile et assurances",
-      "year": 2022,
-      "type": "journal-article",
-      "doi": null,
-      "url": "https://hal.science/hal-03695974",
-      "quantact_members": [
-        "Arthur Charpentier"
-      ],
-      "orcid_ids": [
-        "0000-0003-3654-6286"
-      ],
-      "source": "ORCID public record"
-    },
-    {
       "title": "Risk allocation through Shapley decompositions with applications to variable annuities",
       "journal": null,
       "year": 2022,
@@ -2715,7 +3137,7 @@
       "orcid_ids": [
         "0000-0003-3654-6286"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Partial Observability of Volatiliy Matrices: Identification and Covolatilities Imputation",
@@ -2824,7 +3246,7 @@
     },
     {
       "title": "L’existence de biais de genre par l’utilisation d’algorithmes dans les processus décisionnels en droit de la responsabilité et des assurances",
-      "journal": null,
+      "journal": "Genre, Algorithmes et Droit",
       "year": 2022,
       "type": "conference-paper",
       "doi": null,
@@ -3753,6 +4175,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "?` Puede la demograf́ıa histórica beneficiarse de los datos colaborativos de las páginas web de genealoǵıa?",
+      "journal": "Population",
+      "year": 2020,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Optimal collective investment: The impact of sharing rules, management fees and guarantees",
       "journal": "Unpublished",
       "year": 2020,
@@ -4035,7 +4472,7 @@
       "orcid_ids": [
         "0000-0003-3654-6286"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "COVID-19 Data Hub",
@@ -5313,6 +5750,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "La tarification par genre en assurance: corrélation ou causalité?",
+      "journal": "Risques: Les Cahiers de l'Assurance",
+      "year": 2017,
+      "type": "journal-article",
+      "doi": null,
+      "url": null,
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Hierarchical Archimedean copulas through multivariate compound distributions",
       "journal": "Insurance: Mathematics and Economics",
       "year": 2017,
@@ -5658,21 +6110,6 @@
       "source": "ORCID public record"
     },
     {
-      "title": "Local Utility and Multivariate Risk Aversion",
-      "journal": "Mathematics of OR",
-      "year": 2016,
-      "type": "journal-article",
-      "doi": "10.1287/moor.2015.0736",
-      "url": "https://doi.org/10.1287/moor.2015.0736",
-      "quantact_members": [
-        "Arthur Charpentier"
-      ],
-      "orcid_ids": [
-        "0000-0003-3654-6286"
-      ],
-      "source": "ORCID public record"
-    },
-    {
       "title": "Kernel density estimation based on Ripley’s correction",
       "journal": "GeoInformatica",
       "year": 2016,
@@ -5874,8 +6311,8 @@
       "journal": "Journal of Communication",
       "year": 2015,
       "type": "journal-article",
-      "doi": "10.1111/jcom.12145",
-      "url": "https://doi.org/10.1111/jcom.12145",
+      "doi": "10.2139/ssrn.2575268",
+      "url": "https://doi.org/10.2139/ssrn.2575268",
       "quantact_members": [
         "Arthur Charpentier"
       ],
@@ -6024,8 +6461,8 @@
       "journal": "Actualite Economique",
       "year": 2015,
       "type": "journal-article",
-      "doi": "10.7202/1036917ar",
-      "url": "https://doi.org/10.7202/1036917ar",
+      "doi": "10.2139/ssrn.2514882",
+      "url": "https://doi.org/10.2139/ssrn.2514882",
       "quantact_members": [
         "Arthur Charpentier"
       ],
@@ -6275,21 +6712,6 @@
       "source": "ORCID public record"
     },
     {
-      "title": "Natural catastrophe insurance: How should the government intervene?",
-      "journal": "Journal of Public Economics",
-      "year": 2014,
-      "type": "journal-article",
-      "doi": "10.1016/j.jpubeco.2014.03.004",
-      "url": "https://doi.org/10.1016/j.jpubeco.2014.03.004",
-      "quantact_members": [
-        "Arthur Charpentier"
-      ],
-      "orcid_ids": [
-        "0000-0003-3654-6286"
-      ],
-      "source": "ORCID public record"
-    },
-    {
       "title": "Multivariate Archimax copulas",
       "journal": "Journal of Multivariate Analysis",
       "year": 2014,
@@ -6333,21 +6755,6 @@
         "0000-0002-2016-7524"
       ],
       "source": "Crossref (exact ORCID)"
-    },
-    {
-      "title": "Log-Transform Kernel Density Estimation of Income Distribution",
-      "journal": null,
-      "year": 2014,
-      "type": "preprint",
-      "doi": "10.2139/ssrn.2514882",
-      "url": "https://doi.org/10.2139/ssrn.2514882",
-      "quantact_members": [
-        "Arthur Charpentier"
-      ],
-      "orcid_ids": [
-        "0000-0003-3654-6286"
-      ],
-      "source": "ORCID public record"
     },
     {
       "title": "Liquidity risk and the term structure of interest rates",
@@ -6795,6 +7202,21 @@
       "journal": null,
       "year": 2011,
       "type": "preprint",
+      "doi": "10.1016/j.jpubeco.2014.03.004",
+      "url": "https://doi.org/10.1016/j.jpubeco.2014.03.004",
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Natural Catastrophe Insurance: How Should the Government Intervene?",
+      "journal": null,
+      "year": 2011,
+      "type": "posted-content",
       "doi": "10.2139/ssrn.1832624",
       "url": "https://doi.org/10.2139/ssrn.1832624",
       "quantact_members": [
@@ -6803,7 +7225,7 @@
       "orcid_ids": [
         "0000-0003-3654-6286"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Liquidity risk, price impacts and the replication problem",
@@ -7394,9 +7816,9 @@
       "title": "Dynamic dependence ordering for Archimedean copulas and distorted copulas",
       "journal": "Kybernetika",
       "year": 2008,
-      "type": "conference-paper",
+      "type": "journal-article",
       "doi": null,
-      "url": "https://shs.hal.science/halshs-00325981",
+      "url": "https://shs.hal.science/halshs-00480886",
       "quantact_members": [
         "Arthur Charpentier"
       ],
@@ -7410,8 +7832,8 @@
       "journal": "Statistics and Probability Letters",
       "year": 2008,
       "type": "journal-article",
-      "doi": "10.1016/j.spl.2007.07.014",
-      "url": "https://doi.org/10.1016/j.spl.2007.07.014",
+      "doi": "10.2139/ssrn.900113",
+      "url": "https://doi.org/10.2139/ssrn.900113",
       "quantact_members": [
         "Arthur Charpentier"
       ],
