@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:46:22Z",
+  "generated_at": "2026-09-21T18:14:05Z",
   "member_count": 24,
   "orcid_linked_count": 24,
   "minimum_publication_year": 2000,
@@ -256,7 +256,7 @@
       "title": "Option Pricing with Recurrent Variance Dependent Stochastic Discount Factors and Realized Volatility",
       "journal": null,
       "year": 2026,
-      "type": "posted-content",
+      "type": "preprint",
       "doi": "10.2139/ssrn.6553098",
       "url": "https://doi.org/10.2139/ssrn.6553098",
       "quantact_members": [
@@ -265,7 +265,7 @@
       "orcid_ids": [
         "0000-0003-1168-0198"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Optimal Withdrawals in a Diffusion Model with State-Dependent Control Rates",
@@ -373,6 +373,36 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Multifractal Volatility Models: Beyond the Binary Case",
+      "journal": null,
+      "year": 2026,
+      "type": "preprint",
+      "doi": "10.2139/ssrn.4960926",
+      "url": "https://doi.org/10.2139/ssrn.4960926",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Morillas-type transformations of copulas and stable tail dependence functions",
+      "journal": null,
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://arxiv.org/pdf/2607.19079",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Markov Determinantal Point Process for Dynamic Random Sets",
       "journal": "Journal of Time Series Analysis",
       "year": 2026,
@@ -386,6 +416,21 @@
         "0000-0002-7141-1048"
       ],
       "source": "ORCID public record"
+    },
+    {
+      "title": "&lt;p&gt;Sequential Learning of Multivariate Dependence for&amp;nbsp;&lt;span&gt;Systemic Risk&lt;/span&gt;&lt;/p&gt;",
+      "journal": null,
+      "year": 2026,
+      "type": "posted-content",
+      "doi": "10.2139/ssrn.7462758",
+      "url": "https://doi.org/10.2139/ssrn.7462758",
+      "quantact_members": [
+        "David Ardia"
+      ],
+      "orcid_ids": [
+        "0000-0003-2823-782X"
+      ],
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "La société au prix du risque",
@@ -476,6 +521,21 @@
         "0000-0001-5097-5269"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Generalised Bayesian model averaging for threshold uncertainty in GPD mixture models",
+      "journal": "European Actuarial Journal",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1007/s13385-026-00455-w",
+      "url": "https://doi.org/10.1007/s13385-026-00455-w",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Functional analysis of loss-development patterns in P&C insurance",
@@ -573,7 +633,7 @@
       "title": "Discrete-time variance-optimal hedging with basis risk for multi-asset hedging portfolios",
       "journal": null,
       "year": 2026,
-      "type": "posted-content",
+      "type": "preprint",
       "doi": "10.2139/ssrn.6463646",
       "url": "https://doi.org/10.2139/ssrn.6463646",
       "quantact_members": [
@@ -584,7 +644,22 @@
         "0000-0001-5097-5269",
         "0000-0003-1168-0198"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Discrete-time hedging, basis risk, and covariance-dependent pricing kernels",
+      "journal": null,
+      "year": 2026,
+      "type": "preprint",
+      "doi": "10.2139/ssrn.5178417",
+      "url": "https://doi.org/10.2139/ssrn.5178417",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Direct and Indirect Discrimination in Generalized Linear Models",
@@ -891,6 +966,36 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Uncertainty Propagation and Dynamic Robust Risk Measures",
+      "journal": "Mathematics of Operations Research",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1287/moor.2023.0267",
+      "url": "https://doi.org/10.1287/moor.2023.0267",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Uncertainty in heteroscedastic Bayesian model averaging",
+      "journal": "Insurance: Mathematics and Economics",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1016/j.insmatheco.2024.12.008",
+      "url": "https://doi.org/10.1016/j.insmatheco.2024.12.008",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "The multi-armed bandit problem under the mean-variance setting",
       "journal": "European Journal of Operational Research",
       "year": 2025,
@@ -1009,6 +1114,21 @@
         "0000-0003-2823-782X"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Probabilistic Crop Yields Forecasts With Spatio-Temporal Conditional Copula Using Extreme Weather Covariates",
+      "journal": null,
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.48550/arxiv.2503.22807",
+      "url": "https://doi.org/10.48550/arxiv.2503.22807",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Pareto efficiency and financial fairness under limited expected loss constraint",
@@ -1191,6 +1311,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Flexible extreme thresholds through generalised Bayesian model averaging",
+      "journal": null,
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.48550/arxiv.2504.20216",
+      "url": "https://doi.org/10.48550/arxiv.2504.20216",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Examining high-frequency patterns in Robinhood users’ trading behavior",
       "journal": "International Review of Financial Analysis",
       "year": 2025,
@@ -1250,7 +1385,7 @@
         "0000-0001-5097-5269",
         "0000-0003-1168-0198"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression",
@@ -1433,6 +1568,21 @@
         "0000-0001-7312-0167"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "A general option pricing framework for affine fractionally integrated models",
+      "journal": "Journal of Banking & Finance",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1016/j.jbankfin.2024.107346",
+      "url": "https://doi.org/10.1016/j.jbankfin.2024.107346",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "A fair price to pay: Exploiting causal graphs for fairness in insurance",
@@ -2056,6 +2206,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Efficient Implementation of Tree-Based Option Pricing and Hedging Algorithms under GARCH Models",
+      "journal": "The Journal of Derivatives",
+      "year": 2024,
+      "type": "journal-article",
+      "doi": "10.3905/jod.2023.1.192",
+      "url": "https://doi.org/10.3905/jod.2023.1.192",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Efficient estimation of bid–ask spreads from open, high, low, and close prices",
       "journal": "Journal of Financial Economics",
       "year": 2024,
@@ -2084,6 +2249,21 @@
       "orcid_ids": [
         "0000-0001-5097-5269",
         "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Deviance Voronoi Residuals for Space-Time Point Process Models: An Application to Earthquake Insurance Risk",
+      "journal": null,
+      "year": 2024,
+      "type": "working-paper",
+      "doi": "10.48550/arxiv.2410.04369",
+      "url": "https://doi.org/10.48550/arxiv.2410.04369",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
       ],
       "source": "ORCID public record"
     },
@@ -2360,6 +2540,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Smooth copula‐based generalized extreme value model and spatial interpolation for extreme rainfall in Central Eastern Canada",
+      "journal": "Environmetrics",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": "10.1002/env.2795",
+      "url": "https://doi.org/10.1002/env.2795",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Risk allocation through shapley decompositions, with applications to variable annuities",
       "journal": "ASTIN Bulletin",
       "year": 2023,
@@ -2532,10 +2727,12 @@
       "doi": "10.3390/jrfm16020112",
       "url": "https://doi.org/10.3390/jrfm16020112",
       "quantact_members": [
+        "Maciej Augustyniak",
         "Mathieu Boudreault"
       ],
       "orcid_ids": [
-        "0000-0001-9316-6867"
+        "0000-0001-9316-6867",
+        "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
     },
@@ -2926,6 +3123,21 @@
       ],
       "orcid_ids": [
         "0000-0001-9316-6867"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "A discrete-time hedging framework with multiple factors and fat tails: On what matters",
+      "journal": "Journal of Econometrics",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": "10.1016/j.jeconom.2021.08.002",
+      "url": "https://doi.org/10.1016/j.jeconom.2021.08.002",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
     },
@@ -3545,6 +3757,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Tweedie double GLM loss triangles with dependence within and across business lines",
+      "journal": "European Actuarial Journal",
+      "year": 2021,
+      "type": "journal-article",
+      "doi": "10.1007/s13385-021-00267-0",
+      "url": "https://doi.org/10.1007/s13385-021-00267-0",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "The R package sentometrics to compute, aggregate and predict with textual sentiment",
       "journal": "Journal of Statistical Software",
       "year": 2021,
@@ -3767,7 +3994,7 @@
       "orcid_ids": [
         "0000-0003-1168-0198"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Noncausal counting processes: A queuing perspective",
@@ -4070,6 +4297,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "A MIXED BOND AND EQUITY FUND MODEL FOR THE VALUATION OF VARIABLE ANNUITIES",
+      "journal": "ASTIN Bulletin",
+      "year": 2021,
+      "type": "journal-article",
+      "doi": "10.1017/asb.2020.37",
+      "url": "https://doi.org/10.1017/asb.2020.37",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "A Global Flood Risk Modeling Framework Built With Climate Models and Machine Learning",
       "journal": "Journal of Advances in Modeling Earth Systems",
       "year": 2021,
@@ -4263,6 +4505,21 @@
         "0000-0002-8495-1983"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "MULTIVARIATE GEOMETRIC TAIL- AND RANGE-VALUE-AT-RISK",
+      "journal": "ASTIN Bulletin",
+      "year": 2020,
+      "type": "journal-article",
+      "doi": "10.1017/asb.2019.31",
+      "url": "https://doi.org/10.1017/asb.2019.31",
+      "quantact_members": [
+        "Mélina Mailhot"
+      ],
+      "orcid_ids": [
+        "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Modeling Joint Lives within Families",
@@ -4977,12 +5234,29 @@
       "doi": "10.1016/j.jedc.2019.05.008",
       "url": "https://doi.org/10.1016/j.jedc.2019.05.008",
       "quantact_members": [
-        "Frédéric Godin"
+        "Frédéric Godin",
+        "Maciej Augustyniak"
       ],
       "orcid_ids": [
-        "0000-0001-5097-5269"
+        "0000-0001-5097-5269",
+        "0000-0003-1168-0198"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
+    },
+    {
+      "title": "A New Approach to Volatility Modeling: The Factorial Hidden Markov Volatility Model",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "year": 2019,
+      "type": "journal-article",
+      "doi": "10.1080/07350015.2017.1415910",
+      "url": "https://doi.org/10.1080/07350015.2017.1415910",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "A forecast reconciliation approach to cause-of-death mortality modeling",
@@ -5225,6 +5499,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Modeling macroeconomic series with regime-switching models characterized by a high-dimensional state space",
+      "journal": "Economics Letters",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.1016/j.econlet.2018.06.009",
+      "url": "https://doi.org/10.1016/j.econlet.2018.06.009",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Methods for computing numerical standard errors: Review and application to Value-at-Risk estimation",
       "journal": "Journal of Time Series Econometrics",
       "year": 2018,
@@ -5236,6 +5525,21 @@
       ],
       "orcid_ids": [
         "0000-0003-2823-782X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Maximum Likelihood Estimation of the Markov-Switching GARCH Model Based on a General Collapsing Procedure",
+      "journal": "Methodology and Computing in Applied Probability",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.1007/s11009-016-9541-4",
+      "url": "https://doi.org/10.1007/s11009-016-9541-4",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
     },
@@ -5555,6 +5859,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Risk Management of Policyholder Behavior in Equity‐Linked Life Insurance",
+      "journal": "Journal of Risk and Insurance",
+      "year": 2017,
+      "type": "journal-article",
+      "doi": "10.1111/jori.12094",
+      "url": "https://doi.org/10.1111/jori.12094",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Reanalysis of climate influences on Atlantic tropical cyclone activity using cluster analysis",
       "journal": "Journal of Geophysical Research: Atmospheres",
       "year": 2017,
@@ -5750,6 +6069,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Mitigating Interest Rate Risk in Variable Annuities: An Analysis of Hedging Effectiveness under Model Risk",
+      "journal": "North American Actuarial Journal",
+      "year": 2017,
+      "type": "journal-article",
+      "doi": "10.1080/10920277.2017.1316210",
+      "url": "https://doi.org/10.1080/10920277.2017.1316210",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "La tarification par genre en assurance: corrélation ou causalité?",
       "journal": "Risques: Les Cahiers de l'Assurance",
       "year": 2017,
@@ -5896,6 +6230,21 @@
       ],
       "orcid_ids": [
         "0000-0002-2016-7524"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Assessing the effectiveness of local and global quadratic hedging under GARCH models",
+      "journal": "Quantitative Finance",
+      "year": 2017,
+      "type": "journal-article",
+      "doi": "10.1080/14697688.2017.1279342",
+      "url": "https://doi.org/10.1080/14697688.2017.1279342",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
     },
@@ -6757,6 +7106,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Maximum likelihood estimation of the Markov-switching GARCH model",
+      "journal": "Computational Statistics & Data Analysis",
+      "year": 2014,
+      "type": "journal-article",
+      "doi": "10.1016/j.csda.2013.01.026",
+      "url": "https://doi.org/10.1016/j.csda.2013.01.026",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Liquidity risk and the term structure of interest rates",
       "journal": "Mathematics and Financial Economics",
       "year": 2014,
@@ -7078,6 +7442,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Inference for a leptokurtic symmetric family of distributions represented by the difference of two gamma variates",
+      "journal": "Journal of Statistical Computation and Simulation",
+      "year": 2012,
+      "type": "journal-article",
+      "doi": "10.1080/00949655.2011.590287",
+      "url": "https://doi.org/10.1080/00949655.2011.590287",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Density Prediction of Stock Index Returns using GARCH Models: Frequentist or Bayesian Estimation?",
       "journal": "Economics Letters",
       "year": 2012,
@@ -7119,6 +7498,21 @@
       ],
       "orcid_ids": [
         "0000-0001-7962-7487"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "An Out-of-Sample Analysis of Investment Guarantees for Equity-Linked Products",
+      "journal": "North American Actuarial Journal",
+      "year": 2012,
+      "type": "journal-article",
+      "doi": "10.1080/10920277.2012.10590637",
+      "url": "https://doi.org/10.1080/10920277.2012.10590637",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
     },
