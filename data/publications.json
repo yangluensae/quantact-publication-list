@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:14:05Z",
+  "generated_at": "2026-10-19T18:44:51Z",
   "member_count": 24,
   "orcid_linked_count": 24,
   "minimum_publication_year": 2000,
@@ -161,6 +161,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "QUBO-Based Calibration for Regression Trees",
+      "journal": "Arxiv",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:172351060",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Pricing Life Insurance Using Bivariate Temperature-Mortality Seasonal Hidden Markov Models",
       "journal": null,
       "year": 2026,
@@ -172,6 +187,21 @@
       ],
       "orcid_ids": [
         "0000-0002-0912-2392"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Pricing and Hedging in a Noncausal Cauchy AR(1) Model",
+      "journal": "Studies in Nonlinear Dynamics & Econometrics",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1515/snde-2025-0174",
+      "url": "https://doi.org/10.1515/snde-2025-0174",
+      "quantact_members": [
+        "Yang Lu"
+      ],
+      "orcid_ids": [
+        "0000-0002-7141-1048"
       ],
       "source": "ORCID public record"
     },
@@ -344,7 +374,7 @@
     },
     {
       "title": "On noncentral Wishart mixtures of noncentral Wisharts and their use for testing random effects in factorial design models",
-      "journal": "Journal of Mathematical Analysis and Applications",
+      "journal": "JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS",
       "year": 2026,
       "type": "journal-article",
       "doi": "10.1016/j.jmaa.2025.129897",
@@ -355,7 +385,7 @@
       "orcid_ids": [
         "0000-0002-8495-1983"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Near-Unit-Root Theory for Affine Processes",
@@ -369,6 +399,21 @@
       ],
       "orcid_ids": [
         "0000-0002-7141-1048"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Multifractal Volatility Models: Beyond the Binary Case",
+      "journal": null,
+      "year": 2026,
+      "type": "other",
+      "doi": "10.1093/jjfinec/nbag030",
+      "url": "https://doi.org/10.1093/jjfinec/nbag030",
+      "quantact_members": [
+        "Maciej Augustyniak"
+      ],
+      "orcid_ids": [
+        "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
     },
@@ -521,6 +566,23 @@
         "0000-0001-5097-5269"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Governing Fairness in Insurance Pricing: The Trilemma of Actuarial Adequacy, Solidarity, and Causal Legitimacy",
+      "journal": "Journal of Business Ethics",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1007/s10551-026-06479-2",
+      "url": "https://doi.org/10.1007/s10551-026-06479-2",
+      "quantact_members": [
+        "Arthur Charpentier",
+        "Marie-Pier Côté"
+      ],
+      "orcid_ids": [
+        "0000-0003-0383-1689",
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Generalised Bayesian model averaging for threshold uncertainty in GPD mixture models",
@@ -794,7 +856,7 @@
       "orcid_ids": [
         "0000-0003-0383-1689"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Contractibility, Peer-to-Peer Insurance, and Moral Hazard",
@@ -902,6 +964,21 @@
       "orcid_ids": [
         "0000-0002-8206-0765",
         "0009-0002-9910-8523"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "A survey of actuarial climate indices: a new index for France and its insurance applications",
+      "journal": "Annals of Actuarial Science",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1017/s1748499526100414",
+      "url": "https://doi.org/10.1017/s1748499526100414",
+      "quantact_members": [
+        "José Garrido"
+      ],
+      "orcid_ids": [
+        "0000-0002-2016-7524"
       ],
       "source": "ORCID public record"
     },
@@ -1157,6 +1234,36 @@
       ],
       "orcid_ids": [
         "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "On noncentral Wishart mixtures of noncentral Wisharts and their use for testing random effects in factorial design models",
+      "journal": "Arxiv",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:156332032",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "On an Optimal Stopping Problem with a Discontinuous Reward",
+      "journal": "Arxiv",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:156870456",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
       ],
       "source": "ORCID public record"
     },
@@ -1521,6 +1628,21 @@
       ],
       "orcid_ids": [
         "0000-0002-7141-1048"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "A Unifying Approach for the Pricing of Debt Securities",
+      "journal": "Arxiv",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:88099404",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
       ],
       "source": "ORCID public record"
     },
@@ -2374,7 +2496,7 @@
     },
     {
       "title": "A unifying approach for the pricing of debt securities",
-      "journal": "Quantitative Finance",
+      "journal": "QUANTITATIVE FINANCE",
       "year": 2024,
       "type": "journal-article",
       "doi": "10.1080/14697688.2024.2423686",
@@ -2385,7 +2507,7 @@
       "orcid_ids": [
         "0000-0002-8495-1983"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "A representation-learning approach for insurance pricing with images",
@@ -3083,7 +3205,7 @@
     },
     {
       "title": "Analysis of VIX-linked fee incentives in variable annuities via continuous-time Markov chain approximation",
-      "journal": "Quantitative Finance",
+      "journal": "QUANTITATIVE FINANCE",
       "year": 2023,
       "type": "journal-article",
       "doi": "10.1080/14697688.2023.2215278",
@@ -3094,7 +3216,7 @@
       "orcid_ids": [
         "0000-0002-8495-1983"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "A Global Multi-Source Tropical Cyclone Precipitation (MSTCP) Dataset",
@@ -3352,10 +3474,25 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "Portfolio Optimization With a Guaranteed Minimum Maturity Benefit and Risk-Adjusted Fees",
+      "journal": "METHODOLOGY AND COMPUTING IN APPLIED PROBABILITY",
+      "year": 2022,
+      "type": "journal-article",
+      "doi": "10.1007/s11009-022-09942-5",
+      "url": "https://doi.org/10.1007/s11009-022-09942-5",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Partial Observability of Volatiliy Matrices: Identification and Covolatilities Imputation",
       "journal": null,
       "year": 2022,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.4250461",
       "url": "https://doi.org/10.2139/ssrn.4250461",
       "quantact_members": [
@@ -3364,7 +3501,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Pareto models for top incomes and wealth",
@@ -3835,7 +3972,7 @@
       "title": "SIR Model with Stochastic Transmission",
       "journal": null,
       "year": 2021,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.3730349",
       "url": "https://doi.org/10.2139/ssrn.3730349",
       "quantact_members": [
@@ -3844,7 +3981,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Semi-parametric estimation of multivariate extreme expectiles",
@@ -4132,6 +4269,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Explicit solution simulation method for the 3/2 model",
+      "journal": "Arxiv",
+      "year": 2021,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:10471108",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Existence and Uniqueness of Viscosity Solutions of an Integro-differential Equation Arising in Option Pricing",
       "journal": "SIAM Journal on Financial Mathematics",
       "year": 2021,
@@ -4195,7 +4347,7 @@
       "title": "Cyber Risk Modeling: A Discrete Multivariate Count Process Approach",
       "journal": null,
       "year": 2021,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.3912336",
       "url": "https://doi.org/10.2139/ssrn.3912336",
       "quantact_members": [
@@ -4204,7 +4356,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Collaborative Insurance Sustainability and Network Structure",
@@ -4493,7 +4645,7 @@
     },
     {
       "title": "New Branching Filters With Explicit Negative Dependence",
-      "journal": "IEEE Access",
+      "journal": "IEEE ACCESS",
       "year": 2020,
       "type": "journal-article",
       "doi": "10.1109/access.2020.3019226",
@@ -4504,7 +4656,7 @@
       "orcid_ids": [
         "0000-0002-8495-1983"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "MULTIVARIATE GEOMETRIC TAIL- AND RANGE-VALUE-AT-RISK",
@@ -4540,7 +4692,7 @@
       "title": "Managing Weather Risk with a Neural Network-Based Index Insurance",
       "journal": null,
       "year": 2020,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.3539811",
       "url": "https://doi.org/10.2139/ssrn.3539811",
       "quantact_members": [
@@ -4549,7 +4701,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Machine Learning in Property and Casualty Insurance: A Review for Pricing and Reserving",
@@ -4778,7 +4930,7 @@
     },
     {
       "title": "BRANCHING PARTICLE PRICERS WITH HESTON EXAMPLES",
-      "journal": "International Journal of Theoretical and Applied Finance",
+      "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
       "year": 2020,
       "type": "journal-article",
       "doi": "10.1142/s021902492050003x",
@@ -4789,7 +4941,7 @@
       "orcid_ids": [
         "0000-0002-8495-1983"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "A simple parameter‐driven binary time series model",
@@ -5212,6 +5364,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Branching Particle Pricers with Heston Examples",
+      "journal": "Arxiv",
+      "year": 2019,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:22047027",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Bivariate integer-autoregressive process with an application to mutual fund flows",
       "journal": "Journal of Multivariate Analysis",
       "year": 2019,
@@ -5304,10 +5471,40 @@
       "source": "ORCID public record"
     },
     {
+      "title": "VIX-linked fees for GMWBs via Explicit Solution Simulation Methods",
+      "journal": "Arxiv",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:12874584",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "VIX-linked fees for GMWBs via explicit solution simulation methods",
+      "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.1016/j.insmatheco.2018.04.001",
+      "url": "https://doi.org/10.1016/j.insmatheco.2018.04.001",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "The Term Structure of Predictive Distributions is Solvable for Thinning-based Count Processes",
       "journal": null,
       "year": 2018,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.3095219",
       "url": "https://doi.org/10.2139/ssrn.3095219",
       "quantact_members": [
@@ -5316,7 +5513,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "The peer performance ratios of hedge funds",
@@ -5407,6 +5604,36 @@
         "0000-0003-2823-782X"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Optimization of small deviation for mixed fractional Brownian motion with trend",
+      "journal": "Arxiv",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:22090754",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Optimization of small deviation for mixed fractional Brownian motion with trend",
+      "journal": "STOCHASTICS-AN INTERNATIONAL JOURNAL OF PROBABILITY AND STOCHASTIC PROCESSES",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.1080/17442508.2018.1478835",
+      "url": "https://doi.org/10.1080/17442508.2018.1478835",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Optimal investment under VaR-Regulation and Minimum Insurance",
@@ -5667,7 +5894,7 @@
       "title": "Bivariate INAR Processes with Application to Mutual Fund Share Purchase/Redemption Counts",
       "journal": null,
       "year": 2018,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.3222947",
       "url": "https://doi.org/10.2139/ssrn.3222947",
       "quantact_members": [
@@ -5676,7 +5903,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Beyond risk-based portfolios: Balancing performance and risk contributions in asset allocation",
@@ -5754,6 +5981,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Variable Annuities with VIX-Linked Fee Structure under a Heston-Type Stochastic Volatility Model",
+      "journal": "NORTH AMERICAN ACTUARIAL JOURNAL",
+      "year": 2017,
+      "type": "journal-article",
+      "doi": "10.1080/10920277.2017.1307765",
+      "url": "https://doi.org/10.1080/10920277.2017.1307765",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment",
       "journal": null,
       "year": 2017,
@@ -5769,7 +6011,7 @@
       "source": "Crossref (exact ORCID)"
     },
     {
-      "title": "The impact of parameter and model uncertainty on market risk predictions from GARCH‐type models ",
+      "title": "The impact of parameter and model uncertainty on market risk predictions from GARCH‐type models",
       "journal": "Journal of Forecasting",
       "year": 2017,
       "type": "journal-article",
@@ -5866,9 +6108,11 @@
       "doi": "10.1111/jori.12094",
       "url": "https://doi.org/10.1111/jori.12094",
       "quantact_members": [
+        "Anne MacKay",
         "Maciej Augustyniak"
       ],
       "orcid_ids": [
+        "0000-0002-8495-1983",
         "0000-0003-1168-0198"
       ],
       "source": "ORCID public record"
@@ -5905,7 +6149,7 @@
     },
     {
       "title": "Quantile hedging pension payoffs: an analysis of investment incentives",
-      "journal": "European Actuarial Journal",
+      "journal": "EUROPEAN ACTUARIAL JOURNAL",
       "year": 2017,
       "type": "journal-article",
       "doi": "10.1007/s13385-017-0161-3",
@@ -5916,7 +6160,7 @@
       "orcid_ids": [
         "0000-0002-8495-1983"
       ],
-      "source": "Crossref (exact ORCID)"
+      "source": "ORCID public record"
     },
     {
       "title": "Preface",
@@ -6686,6 +6930,21 @@
       "source": "ORCID public record"
     },
     {
+      "title": "Reducing Surrender Incentives Through Fee Structure in Variable Annuities",
+      "journal": "INNOVATIONS IN QUANTITATIVE RISK MANAGEMENT",
+      "year": 2015,
+      "type": "journal-article",
+      "doi": null,
+      "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000360221400012",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Predicting Market Risk with Density Combination: An Introduction",
       "journal": null,
       "year": 2015,
@@ -6824,7 +7083,7 @@
       "title": "Large Duration Asymptotics in Bivariate Survival Models with Unobserved Heterogeneity",
       "journal": null,
       "year": 2015,
-      "type": "preprint",
+      "type": "posted-content",
       "doi": "10.2139/ssrn.2558477",
       "url": "https://doi.org/10.2139/ssrn.2558477",
       "quantact_members": [
@@ -6833,7 +7092,7 @@
       "orcid_ids": [
         "0000-0002-7141-1048"
       ],
-      "source": "ORCID public record"
+      "source": "Crossref (exact ORCID)"
     },
     {
       "title": "Implied Expected Returns and the Choice of a Mean–Variance Efficient Portfolio Proxy",
@@ -6907,6 +7166,21 @@
       ],
       "orcid_ids": [
         "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Best-Estimates in Bond Markets with Reinvestment Risk",
+      "journal": "RISKS",
+      "year": 2015,
+      "type": "journal-article",
+      "doi": "10.3390/risks3030250",
+      "url": "https://doi.org/10.3390/risks3030250",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
       ],
       "source": "ORCID public record"
     },
@@ -6986,6 +7260,21 @@
       "source": "Crossref (exact ORCID)"
     },
     {
+      "title": "STATE-DEPENDENT FEES FOR VARIABLE ANNUITY GUARANTEES",
+      "journal": "ASTIN BULLETIN",
+      "year": 2014,
+      "type": "journal-article",
+      "doi": "10.1017/asb.2014.13",
+      "url": "https://doi.org/10.1017/asb.2014.13",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
+      ],
+      "source": "ORCID public record"
+    },
+    {
       "title": "Special issue on risk management techniques for catastrophic and heavy-tailed risks",
       "journal": "Risks",
       "year": 2014,
@@ -7042,6 +7331,21 @@
       ],
       "orcid_ids": [
         "0000-0002-2016-7524"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Optimal surrender policy for variable annuity guarantees",
+      "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+      "year": 2014,
+      "type": "journal-article",
+      "doi": "10.1016/j.insmatheco.2014.01.006",
+      "url": "https://doi.org/10.1016/j.insmatheco.2014.01.006",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
       ],
       "source": "ORCID public record"
     },
@@ -7453,6 +7757,21 @@
       ],
       "orcid_ids": [
         "0000-0003-1168-0198"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Equity-linked products: evaluation of the dynamic hedging errors under stochastic mortality",
+      "journal": "EUROPEAN ACTUARIAL JOURNAL",
+      "year": 2012,
+      "type": "journal-article",
+      "doi": "10.1007/s13385-012-0057-1",
+      "url": "https://doi.org/10.1007/s13385-012-0057-1",
+      "quantact_members": [
+        "Anne MacKay"
+      ],
+      "orcid_ids": [
+        "0000-0002-8495-1983"
       ],
       "source": "ORCID public record"
     },
