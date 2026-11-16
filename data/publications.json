@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:47:07Z",
+  "generated_at": "2026-11-16T22:16:17Z",
   "member_count": 24,
   "orcid_linked_count": 24,
   "minimum_publication_year": 2000,
@@ -404,9 +404,9 @@
     },
     {
       "title": "Multifractal Volatility Models: Beyond the Binary Case",
-      "journal": null,
+      "journal": "Journal of Financial Econometrics",
       "year": 2026,
-      "type": "other",
+      "type": "journal-article",
       "doi": "10.1093/jjfinec/nbag030",
       "url": "https://doi.org/10.1093/jjfinec/nbag030",
       "quantact_members": [
@@ -444,6 +444,21 @@
       ],
       "orcid_ids": [
         "0000-0003-3763-654X"
+      ],
+      "source": "ORCID public record"
+    },
+    {
+      "title": "Modeling Longevity and Disability with Generalized Autoregressive Score Models",
+      "journal": "North American Actuarial Journal",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1080/10920277.2026.2752003",
+      "url": "https://doi.org/10.1080/10920277.2026.2752003",
+      "quantact_members": [
+        "Yang Lu"
+      ],
+      "orcid_ids": [
+        "0000-0002-7141-1048"
       ],
       "source": "ORCID public record"
     },
@@ -842,6 +857,21 @@
         "0000-0003-3654-6286"
       ],
       "source": "Crossref (exact ORCID)"
+    },
+    {
+      "title": "Count the climate losses we prevent",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1038/s41467-026-79128-x",
+      "url": "https://doi.org/10.1038/s41467-026-79128-x",
+      "quantact_members": [
+        "Arthur Charpentier"
+      ],
+      "orcid_ids": [
+        "0000-0003-3654-6286"
+      ],
+      "source": "ORCID public record"
     },
     {
       "title": "Correction: From point to probabilistic gradient boosting for claim frequency and severity prediction",
